@@ -235,13 +235,13 @@ export const services: Service[] = [
 export const socialMedia: SocialMedia[] = [
   {
     name: "Instagram",
-    url: "https://instagram.com/marapicture",
+    url: "https://www.instagram.com/marapicture.graduation?igsh=ZnllMndqem9jOGVz",
     icon: "instagram"
   },
   {
-    name: "Facebook",
-    url: "https://facebook.com/marapicture",
-    icon: "facebook"
+    name: "TikTok",
+    url: "https://www.tiktok.com/@marapicture?_r=1&_t=ZS-91KpEGQDkTB",
+    icon: "tiktok"
   },
   {
     name: "Email",
@@ -277,8 +277,8 @@ export const contactInfo = {
   whatsappMessage: "Halo Mara Picture, saya ingin menanyakan tentang layanan fotografi wisuda.",
   location: "Yogyakarta & Solo, Indonesia",
   operationalHours: "Senin - Sabtu, 09:00 - 18:00 WIB",
-  instagram: "https://instagram.com/marapicture",
-  facebook: "https://facebook.com/marapicture",
+  instagram: "https://www.instagram.com/marapicture.graduation?igsh=ZnllMndqem9jOGVz",
+  tiktok: "https://www.tiktok.com/@marapicture?_r=1&_t=ZS-91KpEGQDkTB",
   address: "Jl. Kaliurang KM 5, Yogyakarta"
 };
 
