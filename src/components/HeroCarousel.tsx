@@ -16,7 +16,7 @@ export function HeroCarousel({ onViewPortfolio }: HeroCarouselProps) {
   useEffect(() => {
     const timer = setInterval(() => {
       setCurrentSlide((prev) => (prev + 1) % heroSlides.length);
-    }, 5000); // Change slide every 5 seconds
+    }, 7000); // Change slide every 7 seconds
 
     return () => clearInterval(timer);
   }, []);

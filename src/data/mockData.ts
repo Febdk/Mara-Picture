@@ -43,25 +43,25 @@ export interface HeroSlide {
 export const heroSlides: HeroSlide[] = [
   {
     id: 1,
-    image: "/images/carosel-1.jpg",
+    image: "/images/carosel-1.webp",
     title: "Abadikan Momen Berharga Anda",
     subtitle: "Fotografi Profesional untuk Setiap Cerita Hidup Anda"
   },
   {
     id: 2,
-    image: "/images/carosel-2.jpg",
+    image: "/images/carosel-2.webp",
     title: "Momen Yang Tak Terlupakan",
     subtitle: "Mengabadikan Setiap Detail Hari Istimewa Anda"
   },
   {
     id: 3,
-    image: "/images/carosel-3.jpg",
+    image: "/images/carosel-3.webp",
     title: "Potrait yang Bercerita",
     subtitle: "Menangkap Kepribadian dan Emosi dalam Setiap Frame"
   },
   {
     id: 4,
-    image: "/images/carosel-4.jpg",
+    image: "/images/carosel-4.webp",
     title: "Perayaan Yang Abadi",
     subtitle: "Setiap cerita akan terabasikan dengan sebuah visual yang memukau"
   }
@@ -75,12 +75,12 @@ export const galleries: Gallery[] = [
     client: "Ayu Grads",
     category: "Fotografi Wisuda",
     date: "2024-12-15",
-    coverImage: "/images/Wisuda-Ayu Grads/Wisuda-Ayu Grads-Utama.jpg",
+    coverImage: "/images/Wisuda-Ayu Grads/Wisuda-Ayu Grads-Utama.webp",
     description: "Abadikan momen kelulusanmu dengan keluarga dan di abadikan oleh Mara Picture",
     images: [
-      { id: 1, src: "/images/Wisuda-Ayu Grads/Wisuda-Ayu Grads-1.jpg", alt: "Ayu Foto 1" },
-      { id: 2, src: "/images/Wisuda-Ayu Grads/Wisuda-Ayu Grads-2.jpg", alt: "Ayu Foto 2" },
-      { id: 3, src: "/images/Wisuda-Ayu Grads/Wisuda-Ayu Grads-3.jpg", alt: "Ayu Foto 3" }
+      { id: 1, src: "/images/Wisuda-Ayu Grads/Wisuda-Ayu Grads-1.webp", alt: "Ayu Foto 1" },
+      { id: 2, src: "/images/Wisuda-Ayu Grads/Wisuda-Ayu Grads-2.webp", alt: "Ayu Foto 2" },
+      { id: 3, src: "/images/Wisuda-Ayu Grads/Wisuda-Ayu Grads-3.webp", alt: "Ayu Foto 3" }
     ]
   },
   {
@@ -89,12 +89,12 @@ export const galleries: Gallery[] = [
     client: "Siti Alfa Graduation.",
     category: "Fotografi Wisuda",
     date: "2024-11-20",
-    coverImage: "/images/Wisuda-SitiAlfa/Siti-Utama.jpg",
+    coverImage: "/images/Wisuda-SitiAlfa/Siti-Utama.webp",
     description: "Kebahagiaan yang terpancar dari momen wisuda Siti Alfa Graduation.",
     images: [
-      { id: 1, src: "/images/Wisuda-SitiAlfa/Siti-1.jpg", alt: "Pencapaian" },
-      { id: 2, src: "/images/Wisuda-SitiAlfa/Siti-2.jpg", alt: "Kebahagiaan" },
-      { id: 3, src: "/images/Wisuda-SitiAlfa/Siti-3.jpg", alt: "Keseberagaman" },
+      { id: 1, src: "/images/Wisuda-SitiAlfa/Siti-1.webp", alt: "Pencapaian" },
+      { id: 2, src: "/images/Wisuda-SitiAlfa/Siti-2.webp", alt: "Kebahagiaan" },
+      { id: 3, src: "/images/Wisuda-SitiAlfa/Siti-3.webp", alt: "Keseberagaman" },
     ]
   },
   {
@@ -103,12 +103,12 @@ export const galleries: Gallery[] = [
     client: "Anonimus",
     category: "Fotografi Wisuda",
     date: "2024-10-05",
-    coverImage: "/images/Wisuda-Anonimus/Anonimus-Utama.jpg",
+    coverImage: "/images/Wisuda-Anonimus/Anonimus-Utama.webp",
     description: "Momen yang tak terulang",
     images: [
-      { id: 1, src: "/images/Wisuda-Anonimus/Anonimus-1.jpg", alt: "Pasangan" },
-      { id: 2, src: "/images/Wisuda-Anonimus/Anonimus-2.jpg", alt: "Solo Potraite" },
-      { id: 3, src: "/images/Wisuda-Anonimus/Anonimus-3.jpg", alt: "Family Potraite" },
+      { id: 1, src: "/images/Wisuda-Anonimus/Anonimus-1.webp", alt: "Pasangan" },
+      { id: 2, src: "/images/Wisuda-Anonimus/Anonimus-2.webp", alt: "Solo Potraite" },
+      { id: 3, src: "/images/Wisuda-Anonimus/Anonimus-3.webp", alt: "Family Potraite" },
     ]
   },  
   {
@@ -117,12 +117,12 @@ export const galleries: Gallery[] = [
     client: "Rizky",
     category: "Fotografi Wisuda",
     date: "2024-09-18",
-    coverImage: "/images/Wisuda-Rizky/Wisuda-Rizky-Utama.jpg",
+    coverImage: "/images/Wisuda-Rizky/Wisuda-Rizky-Utama.webp",
     description: "Sesi foto yang penuh kebahagiaan bersama keluarga tercinta di hari wisuda Rizky.",
     images: [
-      { id: 1, src: "/images/Wisuda-Rizky/Wisuda-Rizky-1.jpg", alt: "Cendit Foto 1" },
-      { id: 2, src: "/images/Wisuda-Rizky/Wisuda-Rizky-2.jpg", alt: "Family portrait 1" },
-      { id: 3, src: "/images/Wisuda-Rizky/Wisuda-Rizky-3.jpg", alt: "Family portrait 2" }
+      { id: 1, src: "/images/Wisuda-Rizky/Wisuda-Rizky-1.webp", alt: "Cendit Foto 1" },
+      { id: 2, src: "/images/Wisuda-Rizky/Wisuda-Rizky-2.webp", alt: "Family portrait 1" },
+      { id: 3, src: "/images/Wisuda-Rizky/Wisuda-Rizky-3.webp", alt: "Family portrait 2" }
     ]
   },
 ];
