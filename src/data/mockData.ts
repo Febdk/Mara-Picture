@@ -259,7 +259,7 @@ export const aboutData = {
     " I live in Yogyakarta.",
     " Let's connect! You can also call me Asep, hehe.."
   ],
-  photoUrl: "/images/foto-fg.png"
+  photoUrl: "/images/foto-fg.webp"
 };
 
 // Hero Section Data
@@ -363,14 +363,14 @@ export const teamMembers: TeamMember[] = [
     name: "Koko Endri",
     role: "Founder & Lead Photographer",
     bio: "Dengan 3+ tahun pengalaman, Mara memiliki keahlian khusus dalam wedding dan portrait photography. Bersertifikasi internasional dan telah memenangkan berbagai award fotografi.",
-    photoUrl: "/images/foto-fg.png"
+    photoUrl: "/images/foto-fg.webp"
   },
   {
      id: 1,
     name: "Koko Endri",
     role: "Founder & Lead Photographer",
     bio: "Dengan 3+ tahun pengalaman, Mara memiliki keahlian khusus dalam wedding dan portrait photography. Bersertifikasi internasional dan telah memenangkan berbagai award fotografi.",
-    photoUrl: "/images/foto-fg.png"
+    photoUrl: "/images/foto-fg.webp"
   }
 ];
 
