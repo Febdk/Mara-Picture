@@ -43,25 +43,25 @@ export interface HeroSlide {
 export const heroSlides: HeroSlide[] = [
   {
     id: 1,
-    image: "public/images/carosel-1.jpg",
+    image: "/images/carosel-1.jpg",
     title: "Abadikan Momen Berharga Anda",
     subtitle: "Fotografi Profesional untuk Setiap Cerita Hidup Anda"
   },
   {
     id: 2,
-    image: "public/images/carosel-2.jpg",
+    image: "/images/carosel-2.jpg",
     title: "Momen Yang Tak Terlupakan",
     subtitle: "Mengabadikan Setiap Detail Hari Istimewa Anda"
   },
   {
     id: 3,
-    image: "public/images/carosel-3.jpg",
+    image: "/images/carosel-3.jpg",
     title: "Potrait yang Bercerita",
     subtitle: "Menangkap Kepribadian dan Emosi dalam Setiap Frame"
   },
   {
     id: 4,
-    image: "public/images/carosel-4.jpg",
+    image: "/images/carosel-4.jpg",
     title: "Perayaan Yang Abadi",
     subtitle: "Setiap cerita akan terabasikan dengan sebuah visual yang memukau"
   }
