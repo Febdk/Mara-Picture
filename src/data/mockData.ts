@@ -75,12 +75,12 @@ export const galleries: Gallery[] = [
     client: "Ayu Grads",
     category: "Fotografi Wisuda",
     date: "2024-12-15",
-    coverImage: "public/images/Wisuda-Ayu Grads/Wisuda-Ayu Grads-Utama.jpg",
+    coverImage: "/images/Wisuda-Ayu Grads/Wisuda-Ayu Grads-Utama.jpg",
     description: "Abadikan momen kelulusanmu dengan keluarga dan di abadikan oleh Mara Picture",
     images: [
-      { id: 1, src: "public/images/Wisuda-Ayu Grads/Wisuda-Ayu Grads-1.jpg", alt: "Ayu Foto 1" },
-      { id: 2, src: "public/images/Wisuda-Ayu Grads/Wisuda-Ayu Grads-2.jpg", alt: "Ayu Foto 2" },
-      { id: 3, src: "public/images/Wisuda-Ayu Grads/Wisuda-Ayu Grads-3.jpg", alt: "Ayu Foto 3" }
+      { id: 1, src: "/images/Wisuda-Ayu Grads/Wisuda-Ayu Grads-1.jpg", alt: "Ayu Foto 1" },
+      { id: 2, src: "/images/Wisuda-Ayu Grads/Wisuda-Ayu Grads-2.jpg", alt: "Ayu Foto 2" },
+      { id: 3, src: "/images/Wisuda-Ayu Grads/Wisuda-Ayu Grads-3.jpg", alt: "Ayu Foto 3" }
     ]
   },
   {
@@ -89,12 +89,12 @@ export const galleries: Gallery[] = [
     client: "Siti Alfa Graduation.",
     category: "Fotografi Wisuda",
     date: "2024-11-20",
-    coverImage: "public/images/Wisuda-SitiAlfa/Siti-Utama.jpg",
+    coverImage: "/images/Wisuda-SitiAlfa/Siti-Utama.jpg",
     description: "Kebahagiaan yang terpancar dari momen wisuda Siti Alfa Graduation.",
     images: [
-      { id: 1, src: "public/images/Wisuda-SitiAlfa/Siti-1.jpg", alt: "Pencapaian" },
-      { id: 2, src: "public/images/Wisuda-SitiAlfa/Siti-2.jpg", alt: "Kebahagiaan" },
-      { id: 3, src: "public/images/Wisuda-SitiAlfa/Siti-3.jpg", alt: "Keseberagaman" },
+      { id: 1, src: "/images/Wisuda-SitiAlfa/Siti-1.jpg", alt: "Pencapaian" },
+      { id: 2, src: "/images/Wisuda-SitiAlfa/Siti-2.jpg", alt: "Kebahagiaan" },
+      { id: 3, src: "/images/Wisuda-SitiAlfa/Siti-3.jpg", alt: "Keseberagaman" },
     ]
   },
   {
@@ -103,12 +103,12 @@ export const galleries: Gallery[] = [
     client: "Anonimus",
     category: "Fotografi Wisuda",
     date: "2024-10-05",
-    coverImage: "public/images/Wisuda-Anonimus/Anonimus-Utama.jpg",
+    coverImage: "/images/Wisuda-Anonimus/Anonimus-Utama.jpg",
     description: "Momen yang tak terulang",
     images: [
-      { id: 1, src: "public/images/Wisuda-Anonimus/Anonimus-1.jpg", alt: "Pasangan" },
-      { id: 2, src: "public/images/Wisuda-Anonimus/Anonimus-2.jpg", alt: "Solo Potraite" },
-      { id: 3, src: "public/images/Wisuda-Anonimus/Anonimus-3.jpg", alt: "Family Potraite" },
+      { id: 1, src: "/images/Wisuda-Anonimus/Anonimus-1.jpg", alt: "Pasangan" },
+      { id: 2, src: "/images/Wisuda-Anonimus/Anonimus-2.jpg", alt: "Solo Potraite" },
+      { id: 3, src: "/images/Wisuda-Anonimus/Anonimus-3.jpg", alt: "Family Potraite" },
     ]
   },  
   {
@@ -117,12 +117,12 @@ export const galleries: Gallery[] = [
     client: "Rizky",
     category: "Fotografi Wisuda",
     date: "2024-09-18",
-    coverImage: "public/images/Wisuda-Rizky/Wisuda-Rizky-Utama.jpg",
+    coverImage: "/images/Wisuda-Rizky/Wisuda-Rizky-Utama.jpg",
     description: "Sesi foto yang penuh kebahagiaan bersama keluarga tercinta di hari wisuda Rizky.",
     images: [
-      { id: 1, src: "public/images/Wisuda-Rizky/Wisuda-Rizky-1.jpg", alt: "Cendit Foto 1" },
-      { id: 2, src: "public/images/Wisuda-Rizky/Wisuda-Rizky-2.jpg", alt: "Family portrait 1" },
-      { id: 3, src: "public/images/Wisuda-Rizky/Wisuda-Rizky-3.jpg", alt: "Family portrait 2" }
+      { id: 1, src: "/images/Wisuda-Rizky/Wisuda-Rizky-1.jpg", alt: "Cendit Foto 1" },
+      { id: 2, src: "/images/Wisuda-Rizky/Wisuda-Rizky-2.jpg", alt: "Family portrait 1" },
+      { id: 3, src: "/images/Wisuda-Rizky/Wisuda-Rizky-3.jpg", alt: "Family portrait 2" }
     ]
   },
 ];
@@ -259,7 +259,7 @@ export const aboutData = {
     " I live in Yogyakarta.",
     " Let's connect! You can also call me Asep, hehe.."
   ],
-  photoUrl: "public/images/foto-fg.png"
+  photoUrl: "/images/foto-fg.png"
 };
 
 // Hero Section Data
@@ -363,14 +363,14 @@ export const teamMembers: TeamMember[] = [
     name: "Koko Endri",
     role: "Founder & Lead Photographer",
     bio: "Dengan 3+ tahun pengalaman, Mara memiliki keahlian khusus dalam wedding dan portrait photography. Bersertifikasi internasional dan telah memenangkan berbagai award fotografi.",
-    photoUrl: "public/images/foto-fg.png"
+    photoUrl: "/images/foto-fg.png"
   },
   {
      id: 1,
     name: "Koko Endri",
     role: "Founder & Lead Photographer",
     bio: "Dengan 3+ tahun pengalaman, Mara memiliki keahlian khusus dalam wedding dan portrait photography. Bersertifikasi internasional dan telah memenangkan berbagai award fotografi.",
-    photoUrl: "public/images/foto-fg.png"
+    photoUrl: "/images/foto-fg.png"
   }
 ];
 
